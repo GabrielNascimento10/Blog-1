@@ -3,10 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Blog.Models.Blog.Categoria
+namespace Blog.Models.Blog.Etiqueta
 {
-    public class CategoriaEntity
+    public class EtiquetaEntity
     {
+        
         public string Nome;
+        public string Cor;
+
+
     }
 }
