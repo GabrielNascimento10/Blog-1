@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Blog.Models.Blog.Autor
 {
-    public class Autor
+    public class AutorEntity
     {
         public String Nome;
     }
