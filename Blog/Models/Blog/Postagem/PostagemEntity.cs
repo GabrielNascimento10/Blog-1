@@ -11,9 +11,10 @@ namespace Blog.Models.Blog.Postagem
 {
     public class PostagemEntity
     {
-        public String Titulo;
+        public string Titulo;
         public AutorEntity Autor;
         public CategoriaEntity Categoria;
+
         public List<EtiquetaEntity> Etiquetas;
         public List<RevisaoEntity> Revisoes;
     }
