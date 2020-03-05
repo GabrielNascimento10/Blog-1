@@ -15,10 +15,7 @@ namespace Blog.Models.Blog.Postagem
         public AutorEntity Autor;
         public CategoriaEntity Categoria;
 
-        public List <EtiquetaEntity> Etiquetas;
+        public List<EtiquetaEntity> Etiquetas;
         public List<RevisaoEntity> Revisoes;
-
-
-
     }
 }

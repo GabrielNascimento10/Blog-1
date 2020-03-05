@@ -8,11 +8,8 @@ namespace Blog.Models.Blog.Postagem.Revisao
     public class RevisaoEntity
     {
         public PostagemEntity Postagem;
-        public string texto;
+        public string Texto;
         public int Versao;
         public DateTime Data;
-
-
-
     }
 }

@@ -7,10 +7,7 @@ namespace Blog.Models.Blog.Etiqueta
 {
     public class EtiquetaEntity
     {
-        
         public string Nome;
         public string Cor;
-
-
     }
 }
