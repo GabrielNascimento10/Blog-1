@@ -14,6 +14,14 @@ namespace Blog.Models.Blog.Postagem
         public string Titulo;
         public AutorEntity Autor;
         public CategoriaEntity Categoria;
+<<<<<<< HEAD
+=======
+
+        public List <EtiquetaEntity> Etiquetas;
+        public List<RevisaoEntity> Revisoes;
+
+
+>>>>>>> cf9ae31ad0dfadef8f5852c607d34ab3b191f92d
 
         public List<EtiquetaEntity> Etiquetas;
         public List<RevisaoEntity> Revisoes;
